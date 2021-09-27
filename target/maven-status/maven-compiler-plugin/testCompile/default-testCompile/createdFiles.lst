@@ -1,0 +1,4 @@
+com/opencart/accounttests/SignUp.class
+com/opencart/accounttests/MyAccount.class
+com/dataprovider/SignUpDataProvider.class
+com/dataprovider/LoginDataProvider.class

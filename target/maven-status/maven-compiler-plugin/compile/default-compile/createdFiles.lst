@@ -1,0 +1,12 @@
+com/opencart/utilities/StringFunctions.class
+com/pageobjects/OrderHistoryPage.class
+com/pageobjects/SignUpSuccessPage.class
+com/pageobjects/MainPage.class
+com/pageobjects/MyAccountPage.class
+com/pageobjects/LoginFormPage.class
+com/pageobjects/SignUpFormPage.class
+com/opencart/common/AccountCommons.class
+com/pageobjects/NewsletterPage.class
+com/pageobjects/WishlistPage.class
+com/opencart/Base.class
+com/pageobjects/EditAccountInfoFormPage.class
